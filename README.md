@@ -72,7 +72,7 @@ Build blockchain from scratch + encrypted messaging app.
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lk" width="28"> Connect With Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="28"> Connect With Me
 - 💼 LinkedIn: [linkedin.com/in/manveer11011](https://www.linkedin.com/in/manveer11011)  
 - 📧 Email: [manveer11011@outlook.com](mailto:manveer11011@outlook.com)  
 - 🌐 Website: [manveersingh.in](https://manveersingh.in)
