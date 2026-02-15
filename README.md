@@ -14,7 +14,8 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/lottie.json" width="28"> About Me
+## <img src="<picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.gif"" width="28"> About Me
 - 🎓 Computer Science student  
 - 🔧 Backend-focused developer building real products  
 - 🧠 Currently learning **Advanced Django REST Framework & React**  
