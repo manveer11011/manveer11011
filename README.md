@@ -79,7 +79,7 @@ Build blockchain from scratch + encrypted messaging app.
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN6N2Y2Nmk1eWRjNDBqNWRqbDByN2s1bzZhbHgzdzduemtndnh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X73REQo2Y4hVVe3RSG/giphy.gif" width="28"> Fun Fact
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="28"> Fun Fact
 I enjoy learning about **Cybersecurity** and **AI systems** alongside backend development.
 
 <p align="center">
