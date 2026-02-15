@@ -58,7 +58,7 @@ Goal: Build blockchain from scratch and an encrypted messaging app on top of it.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manveer11011&theme=tokyo-night&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manveer11011&theme=tokyo-night" />
 </p>
 
 ---
