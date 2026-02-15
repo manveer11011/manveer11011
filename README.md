@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U0dDV3cHhxb3F3N3Q0OW1mb2h2eTFnN3k5dTB0d3BvNmR3c2t5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="28"> About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/lottie.json" width="28"> About Me
 - 🎓 Computer Science student  
 - 🔧 Backend-focused developer building real products  
 - 🧠 Currently learning **Advanced Django REST Framework & React**  
@@ -23,7 +23,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"> Tech Stack
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gi" width="28"> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
