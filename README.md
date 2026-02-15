@@ -58,8 +58,7 @@ Goal: Build blockchain from scratch and an encrypted messaging app on top of it.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://stats.dooboo.io/api?username=manveer11011&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=manveer11011&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manveer11011&theme=tokyo-night&cache_seconds=86400" />
 </p>
 
 ---
