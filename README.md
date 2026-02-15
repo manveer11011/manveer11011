@@ -15,7 +15,7 @@
 - 🎯 Goal: Become a strong **Full-Stack Developer**
 
 <p align="center">
-  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
