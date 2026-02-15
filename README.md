@@ -55,10 +55,8 @@
 Full-stack chat app with production-level features:
 - Token Authentication  
 - Real-time messaging using WebSockets  
-- Message reactions 👍  
-- File sharing 📁  
-- User profiles (bio, image, password reset)  
-- Message edit & delete  
+- File sharing 
+- User profiles (bio, image, password reset)   
 - Django + React architecture  
 
 ### ⛓️ Private Blockchain (Upcoming)
@@ -74,7 +72,7 @@ Build blockchain from scratch + encrypted messaging app.
 
 ---
 
-## <img src="https://media.giphy.com/media/icoYy7ZFy5g6nJjzQb/giphy.gif" width="28"> Connect With Me
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"> Connect With Me
 - 💼 LinkedIn: [linkedin.com/in/manveer11011](https://www.linkedin.com/in/manveer11011)  
 - 📧 Email: [manveer11011@outlook.com](mailto:manveer11011@outlook.com)  
 - 🌐 Website: [manveersingh.in](https://manveersingh.in)
