@@ -15,8 +15,9 @@
 - 🎯 Goal: Become a strong **Full-Stack Developer**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=header"/>
 </p>
+
 
 ---
 
